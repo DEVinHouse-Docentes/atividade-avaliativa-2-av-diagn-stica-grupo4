@@ -1,0 +1,62 @@
+Instrumento Avaliativo
+Título: Avaliação Diagnóstica de JavaScript - Curso DESI
+
+Instruções: Responda às questões a seguir com atenção.
+
+1. Conceitos Básicos:
+* Qual o tipo de dado utilizado para representar números inteiros em JavaScript?
+* a) string
+* b) float
+* c) int
+* d) bool
+* Qual o operador utilizado para realizar a divisão inteira em JavaScript?
+* a) /
+* b) //
+* c) %
+* d) **
+* Para criar um comentário em uma linha de código JavaScript, utilizamos:
+* a) //
+* b) #
+* c) /* */
+* d) ' '
+
+2. Estruturas de Controle:
+* Qual a estrutura de controle utilizada para tomar decisões em JavaScript?
+* a) for
+* b) while
+* c) if
+* d) def
+* Qual a estrutura de controle utilizada para repetir um bloco de código enquanto uma condição for verdadeira?
+* a) for
+* b) while
+* c) if
+* d) def
+
+3. Funções:
+* Qual a palavra-chave utilizada para definir uma função em JavaScript?
+* a) function
+* b) def
+* c) procedure
+* d) create
+
+4. Leitura e Interpretação de Código:
+* Analise o código a seguir e indique o resultado da execução:JavaScript x = 5 y = 3 print(x + y)
+* a) 53
+* b) 8
+* c) 2
+* d) Erro
+
+5. Problema Prático:
+* Escreva um programa em JavaScript que solicite ao usuário um número inteiro e imprima na tela o dobro desse número.
+
+Protótipo Exemplo
+[Link para o Forms]
+
+Observações:
+
+Este é apenas um exemplo de avaliação diagnóstica. A equipe do curso pode adaptá-la de acordo com as suas necessidades e o nível dos alunos.
+É importante incluir questões que avaliem tanto o conhecimento teórico quanto a capacidade de aplicar os conceitos na prática.
+A análise dos resultados da avaliação diagnóstica permitirá identificar as principais dificuldades dos alunos e planejar as atividades do curso de forma mais eficiente.
+Recursos Adicionais:
+
+Ao aplicar essa avaliação diagnóstica, a equipe do curso DESI poderá obter informações valiosas sobre o nível de conhecimento dos alunos em programação JavaScript, o que permitirá personalizar o ensino e garantir um melhor aproveitamento do curso.
