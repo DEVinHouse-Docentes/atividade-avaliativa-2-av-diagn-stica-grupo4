@@ -1,0 +1,71 @@
+Identifique qual o tipo de dado utilizado para representar números inteiros em JavaScript.
+A. string
+B. float
+C. int
+D. bool
+ANSWER: C
+
+Aplique o operador correto para realizar a divisão inteira em JavaScript ao calcular o número de semanas completas a partir dos dias trabalhados.
+A. /
+B. //
+C. %
+D. **
+ANSWER: C
+
+Lembre qual a sintaxe correta para criar um comentário em uma linha de código JavaScript.
+A. //
+B. #
+C. /* */
+D. ' '
+ANSWER: A
+
+Analise qual a estrutura de controle utilizada para tomar decisões em JavaScript ao verificar se o saldo de um cliente é suficiente para completar uma transferência.
+A. for
+B. while
+C. if
+D. def
+ANSWER: C
+
+Aplique a estrutura de controle correta para repetir um bloco de código enquanto uma condição, como a verificação de senha, for verdadeira.
+A. for
+B. while
+C. if
+D. def
+ANSWER: B
+
+Compreenda qual a palavra-chave utilizada para definir uma função em JavaScript para automatizar cálculos de impostos.
+A. function
+B. def
+C. procedure
+D. create
+ANSWER: A
+
+Interprete o resultado da execução do seguinte código JavaScript: x = 5; y = 3; print(x + y);
+A. 53
+B. 8
+C. 2
+D. Erro
+ANSWER: B
+
+
+Aplique o operador correto utilizado para verificar a igualdade estrita (comparação de valor e tipo) em JavaScript.
+A. ==
+B. ===
+C. =
+D. !=
+ANSWER: B
+
+Calcule qual é o resultado da expressão 5 % 2 em JavaScript.
+A. 1
+B. 2
+C. 0
+D. 5
+ANSWER: A
+
+Determine qual método é utilizado para adicionar um elemento ao final de um array em JavaScript.
+A. add()
+B. push()
+C. append()
+D. insert()
+ANSWER: B
+
